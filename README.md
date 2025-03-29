@@ -1,8 +1,21 @@
-# React + Vite
+# News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The **News App** is a web-based platform that provides users with summarized news articles along with an audio playback feature. It includes a **user dashboard** to browse news articles and an **admin panel** for managing news content. The app ensures easy access to news with features like approvals, summaries, and playback functionality.
 
-Currently, two official plugins are available:
+## Features
+### User Side
+- **Browse News:** View categorized news articles.
+- **News Summaries:** Get concise summaries of articles.
+- **Audio Playback:** Listen to news articles using the built-in player.
+- **Search & Filter:** Find news by category or keywords.
+- **Responsive UI:** Mobile-friendly and accessible design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Admin Panel
+- **Manage News Articles:** View, approve, or reject news submissions.
+- **Source Information:** Ensure credibility with news sources displayed.
+- **Timestamped Articles:** Each news item shows when it was fetched.
+- **User-Friendly Dashboard:** Simple interface for managing content efficiently.
+
+
+
